@@ -1,0 +1,2 @@
+I chose CE instead of EE because I got interested in embedded systems when I played around with 
+microcontrollers like the arduino and MSP.
